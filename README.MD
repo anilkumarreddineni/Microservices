@@ -1,11 +1,15 @@
+To initialize the repository for the first time
 git init
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/anilkumarreddineni/Microservices.git
 git push -u origin master
 
-Kaushikgithubrepository:
 
+As the repository is already available all we need to do is to check out the repository
+git clone https://github.com/anilkumarreddineni/Microservices.git
+
+Actual Kaushikgithubrepository:
 https://github.com/koushikkothagal/spring-boot-microservices-workshop.git
 
 Key points:
