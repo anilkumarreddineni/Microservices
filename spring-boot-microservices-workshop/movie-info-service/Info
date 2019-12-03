@@ -1,2 +1,9 @@
 urls:
 http://localhost:8082/movies/143
+
+TMDB:The Movie Database
+Account Details:
+Username:anilkumarreddineni	
+Password:dell1234
+
+generated the api where by passing the movie number and api key movie summary will be gotten.
