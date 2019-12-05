@@ -1,0 +1,1 @@
+java -jar spring-boot-microservices-workshop\movie-catalog-service\target\movie-catalog-service-0.0.1-SNAPSHOT.jar

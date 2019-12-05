@@ -1,0 +1,1 @@
+java -jar spring-boot-microservices-workshop\discovery-server\target\discovery-server-0.0.1-SNAPSHOT.jar

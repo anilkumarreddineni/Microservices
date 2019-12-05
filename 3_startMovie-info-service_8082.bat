@@ -1,0 +1,1 @@
+java -jar  spring-boot-microservices-workshop\movie-info-service\target\movie-info-service-0.0.1-SNAPSHOT.jar
